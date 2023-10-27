@@ -46,7 +46,7 @@ This is a brief summary of the results :
 | Cluster name | Questions |
 | --- | ----------- |
 | cluster_28 | Can you provide information on your room types?<br>Is room keycard access required for specific hotel areas?<br>Can I request a specific floor or room location?<br>Are there any security measures in place within the hotel? |
-| cluster_29 | What are your hotel's check-in and check-out timings?<br>How can I access the hotel's guest reviews?<br>How can I access the hotel's event calendar?<br>How can I receive notifications about hotel promotions?<br>Can I participate in a hotel loyalty program upon check-in?<br>How can I access the hotel's VIP or concierge lounge?<br>How can I access information on hotel awards and accolades?<br>How can I access information on hotel partnerships or affiliations? |
+| cluster_16 | Is there a quiet time policy in the hotel?<br>Is there a curfew or quiet hours in the hotel?<br>Is there a library or reading room within the hotel?<br>Is there a quiet area for reading or studying within the hotel?<br>How can I access the hotel's library of books or movies? |
 | cluster_6 | Are there any extended stay discounts available?<br>What's the process for extending my stay? |
 | cluster_19 | Is there a fitness facility or gym within the hotel premises?<br>Is there a pool or spa on the hotel premises?<br>How do I access the hotel's spa or wellness center?<br>Are there options for in-room massages or spa treatments? |
 | cluster_3 | How do I request a late check-out?<br>Can I request a late-night check-in or early check-out?<br>Is there a security escort service for late-night arrivals? |
