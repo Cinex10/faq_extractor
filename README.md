@@ -36,7 +36,7 @@ This project is built with a powerful stack of tools, including :
 
 ## Results
 
-This is the 10 frequently asked questions from the dataset that i have choose :
+This is the 10 frequently asked questions using the HDBSCAN clustering result :
 
 | Cluster name | Questions |
 | --- | ----------- |
