@@ -1,10 +1,5 @@
-# Frequently Asked Questions Extractor
-
-a notebook that leverage the power of NLP and Unsupervised learning in order to extract the most asked question from a huge corpus of question.
-
-<br/>
 <p align="center">
-  <h3 align="center">Frequently Asked Questions Extractor</h3>
+  <h1 align="center">Frequently Asked Questions Extractor</h1>
 
   <p align="center">
     A notebook that leverage the power of NLP and clustering in order to extract the most asked question from a huge corpus of question.
